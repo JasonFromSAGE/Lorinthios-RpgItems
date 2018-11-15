@@ -1,42 +1,33 @@
 # Welcome
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+Welcome to the LorinthsRpgItems Wiki! 
 
-## Wiki features
+Here is where we attempt to keep documentation updated so you know all the tips in tricks to make your server completely unqiue from anyone elses!
 
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax. The [MarkDownDemo tutorial](https://bitbucket.org/tutorials/markdowndemo) shows how various elements are rendered. The [Bitbucket documentation](https://confluence.atlassian.com/x/FA4zDQ) has more information about using a wiki.
+But first of all, what is LorinthsRpgItems?
 
-The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
+## LorinthsRpgItems
 
-Go ahead and try:
+LorinthsRpgItems is a plugin that creates Rpg/Diablo styled loot that is completely random but at the same time completely configurable.
 
-```
-$ git clone https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems.git/wiki
-```
+What can you control?
 
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
+* What plugins it hooks into (Heroes, LorinthsRpgMobs, MythicMobs, SkillAPI, BattleStats, more by request)
+* If you don't use external plugins you can use the built-in level system
+* Allow players to toggle PvP or not
+* Change how effects (block, crit, dodge) sound and look (particles!)
+* Control how attributes and lore is displayed on items
+* Control generation of items at a **Rarity** based level
+* Control generation of items at a **Modification** based level
+* Control of combat logic using **Formulas**
+* **Custom Durability** and durability costs
+* Default values per material (WOODEN_SWORD vs IRON_SWORD)
+* Custom item/texture support using unbreakable items and unique durability. (Including default values for id:durability combination)
+* Randomly Generated names created from Prefix + {Random Name} + Suffix logic
+* Multi-language support via completely configurable attribute names, display logic, and display settings
 
-## Syntax highlighting
+## Discord
 
+If you need further support, have feature requests, or just want to weigh in on design decisions hop on the discord!
 
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
-
-[Pygments]: http://pygments.org/
-
-
-Here's an example of some Python code:
-
-```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-```
-
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
-
-
-Have fun!
+https://discord.gg/3gmbcGT
