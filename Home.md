@@ -13,7 +13,7 @@ LorinthsRpgItems is a plugin that creates Rpg/Diablo styled loot that is complet
 What can you control?
 
 * What plugins it hooks into (Heroes, LorinthsRpgMobs, MythicMobs, SkillAPI, BattleStats, more by request)
-* If you don't use external plugins you can use the built-in level system
+* If you don't use external plugins you can use the [built-in level system](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Built-In%20Level%20System)
 * Allow players to toggle PvP or not
 * Change how effects (block, crit, dodge) sound and look (particles!)
 * Control how attributes and lore is displayed on items
