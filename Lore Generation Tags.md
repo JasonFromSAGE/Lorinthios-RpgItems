@@ -4,9 +4,11 @@ There may be some cases where you want to generated attributes on an item droppe
 
 ## Tags ##
 **Required**
+
 * [LriGeneration:{level}] - replace {level} with the level of the targeted generation you want to apply to this item
 
 **Optional**
+
 * [LriGeneration-Level] - Adds the level and iLevel(if applicable) lines as configured in display.yml to the lore at this spot
 * [LriGeneration-Rarity] - Adds the rarity tier as configured in display.yml
 * [LriGeneration-Durability] - Adds the durability line (or moves existing durability line) to this location on the lore
