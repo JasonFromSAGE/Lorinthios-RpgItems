@@ -19,7 +19,7 @@ What can you control?
 * Control how attributes and lore is displayed on items
 * Control generation of items at a **Rarity** based level
 * Control generation of items at a **Modification** based level
-* Control of combat logic using **Formulas**
+* Control of combat logic using **Formulas** or complete control with **Javascript**
 * **Custom Durability** and durability costs
 * Default values per material (WOODEN_SWORD vs IRON_SWORD)
 * Custom item/texture support using unbreakable items and unique durability. (Including default values for id:durability combination)
