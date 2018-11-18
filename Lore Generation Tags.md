@@ -9,6 +9,7 @@ There may be some cases where you want to generated attributes on an item droppe
 
 **Note**: {level} can accept a range from min-max level. Example, [LriGeneration:1-10] will generate an item between levels 1-10 (inclusive)
 
+
 **Optional**
 
 * [LriGeneration-Name] - Will apply prefix / suffix and rarity color to the items display name
