@@ -6,6 +6,7 @@ There may be some cases where you want to generated attributes on an item droppe
 **Required**
 
 * [LriGeneration:{level}] - replace {level} with the level of the targeted generation you want to apply to this item
+Note: {level} can accept a range from min-max level. Example, [LriGeneration:1-10] will generate an item between levels 1-10 (inclusive)
 
 **Optional**
 
