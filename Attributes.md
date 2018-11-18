@@ -1,6 +1,8 @@
 # Attributes #
 
-Attributes are the base of the entire plugin. They can do anything from increasing health, to giving you critical change, or even stealing your enemies health! Attributes are added to items via modifications and provide the user with different effects and bonuses.
+Attributes are the base of the entire plugin. They can do anything from increasing health, to giving you critical change, or even stealing your enemies health! Attributes are added to items via modifications and provide the user with different effects and bonuses. 
+
+The descriptions here are for base mechanics the plugin provides. If you mess with formulas.yml you will mess with how these attributes affect combat.
 
 ## List of Attributes ##
 
