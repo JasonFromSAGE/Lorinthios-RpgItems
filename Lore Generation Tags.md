@@ -15,6 +15,6 @@ There may be some cases where you want to generated attributes on an item droppe
 * [LriGeneration-Name] - Will apply prefix / suffix and rarity color to the items display name
 * [LriGeneration-Level] - Adds the level and iLevel(if applicable) lines as configured in display.yml to the lore at this spot
 * [LriGeneration-Rarity] - Adds the rarity tier as configured in display.yml
-* [LriGeneration-Durability] - Adds the durability line (or moves existing durability line) to this location on the lore
+* [LriGeneration-Durability] - Adds the durability line (or moves existing durability line) to this location on the lore. (Automatically makes item unbreakable to use custom durability)
 * [LriGeneration-Attributes] - Adds all the attributes from the generated attributes and attributes already added to the item together and places them here
-* [LriGeneration-Unbreakable] - Will make the item unbreakable. (Required to work with custom durability)
+* [LriGeneration-Unbreakable] - Will make the item unbreakable.
