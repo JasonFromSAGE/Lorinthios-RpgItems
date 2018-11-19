@@ -43,3 +43,31 @@ There are additional attributes added that work with the plugin Heroes. These ar
 * Intellect
 * Wisdom
 * Charisma
+
+## Configuration (attributes.yml) ##
+
+Example configuration for reference
+```
+  Health:
+    Enabled: true
+    Display: '&aHealth'
+    DisplayMaterial: COOKED_BEEF
+    DefaultValue: 0.0
+    IsDecimal: false
+    IsPercent: false
+```
+
+Each attribute has an id, in this case 'Health'. **This id cannot be changed or it will break the health attribute in the plugin**. 
+
+To disable an attribute use **Enabled: false**
+
+* Enabled: (true/false) determines if the attribute is used in the plugin
+* Display: (string) the way the attribute is displayed on an item when generated and also when reading an item
+* DisplayMaterial: ([material](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html)) - The material of this attribute used in /lri stats
+* DefaultValue: (decimal) What are the default stats you want players / entities to have? 
+* IsDecimal: (true/false) Do you want stats to be flat integers or decimals?
+* IsPercent: (true/false) Displays a % after the value in the lore and changes how some attributes act
+
+## Other Notes ##
+
+IsPercent namely affects MovementSpeed and Health. Other values are handled as a percentage in formulas.yml
