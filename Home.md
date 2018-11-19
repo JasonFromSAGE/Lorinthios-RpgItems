@@ -27,8 +27,12 @@ What can you control?
 * Multi-language support via completely configurable attribute names, display logic, and display settings
 * **[Tag based](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Lore%20Generation%20Tags)** item generation system that allows you to apply generation logic to other plugins that drop configurable items with lore.
 
-## Discord
+## Discord ##
 
 If you need further support, have feature requests, or just want to weigh in on design decisions hop on the discord!
 
 https://discord.gg/3gmbcGT
+
+## General Roadmap ##
+
+[Roadmap Link](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Development%20Roadmap)
