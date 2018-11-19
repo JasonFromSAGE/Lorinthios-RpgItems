@@ -16,8 +16,8 @@ What can you control?
 * If you don't use external plugins you can use the [built-in level system](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Built-In%20Level%20System)
 * Allow players to toggle PvP or not
 * Change how effects (block, crit, dodge) sound and look (particles!)
-* Control how [attributes](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Attributes) and lore is displayed on items
-* Control generation of items at a **Rarity** based level
+* Control how **[attributes](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Attributes)** and lore is displayed on items
+* Control generation of items at a **[Rarity](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Rarity)** based level
 * Control generation of items at a **Modification** based level
 * Control of combat logic using **Formulas** or complete control with **Javascript**
 * **Custom Durability** and durability costs
