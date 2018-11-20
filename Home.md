@@ -12,6 +12,7 @@ LorinthsRpgItems is a plugin that creates Rpg/Diablo styled loot that is complet
 
 What can you control?
 
+* All messages and display settings can be configured to be language supported. (Requires translation by user, doesn't come with default language files)
 * What plugins it hooks into (Heroes, LorinthsRpgMobs, MythicMobs, SkillAPI, BattleStats, more by request)
 * If you don't use external plugins you can use the **[built-in level system](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Built-In%20Level%20System)**
 * Allow players to toggle PvP or not
