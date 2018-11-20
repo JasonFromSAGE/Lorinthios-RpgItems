@@ -21,6 +21,7 @@ What can you control?
 * Control generation of items at a **Modification** based level
 * Control of combat logic using **Formulas** or complete control with **Javascript**
 * **Custom Durability** and durability costs
+* **Custom Repair** and material repair value
 * Default values per material (WOODEN_SWORD vs IRON_SWORD)
 * Custom item/texture support using unbreakable items and unique durability. (Including default values for id:durability combination)
 * Randomly Generated names created from Prefix + {Random Name} + Suffix logic
