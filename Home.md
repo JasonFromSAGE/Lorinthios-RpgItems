@@ -28,6 +28,7 @@ What can you control?
 * Randomly Generated names created from Prefix + {Random Name} + Suffix logic
 * Multi-language support via completely configurable attribute names, display logic, and display settings
 * **[Tag based](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Lore%20Generation%20Tags)** item generation system that allows you to apply generation logic to other plugins that drop configurable items with lore.
+* Valid **[placeholders](https://bitbucket.org/lorinthslairdevelopment/lorinthsrpgitems/wiki/Placeholders)** that work with PlaceholderAPI
 
 ## Discord ##
 
