@@ -10,3 +10,18 @@
 8. Weapon Mastery - Using swords will increase sword skill. Higher sword skill will provide passive bonuses
 9. Enhancement Scrolls
 10. Ascendency Gear - Gear that levels with you and scales with you
+
+
+
+## Indica Priority ##
+
+1: Consumables
+2: Custom Gear set Bonuses
+3: Unidentified Items
+4: Passive Point System
+5: Socket System
+6: Enhancement Scrolls
+7: Weapon Mastery
+8: Region Based Overrides
+9: Ascendancy Gear
+10: 1.13 support.
