@@ -9,6 +9,7 @@ But first of all, what is LorinthsRpgItems?
 ## LorinthsRpgItems
 
 LorinthsRpgItems is a plugin that creates Rpg/Diablo styled loot that is completely random but at the same time completely configurable.
+## LorinthsRpgItems requires a dependency plugin which can be found [HERE](https://www.spigotmc.org/resources/id-library-old-id-support-lib-new-minecraft-ids-1-13-x-1-14-x.62124/)
 
 What can you control?
 
